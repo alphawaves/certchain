@@ -41,4 +41,8 @@
    > app.myMethod(parameters);
    ```
 
+
+
+### Running the backend server
+Run the `App` class under the `backend/src/main/java` folder after gradle build.
    
