@@ -1,0 +1,30 @@
+.searchbar {
+	height: 100px;
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
+
+.documentpanel {
+	height: 200px;
+	border: 1px solid red;
+}
+
+.documentcontainer {
+	display:flex;
+}
+
+.document {
+	border: 1px solid blue;
+	padding: 10px;
+	margin: 10px;
+}
+
+.document-grid {
+	display:flex;
+	height:300px;
+}
+
+body {
+	display:flex;
+	justify-content:center;
+}
